@@ -1,0 +1,17 @@
+app/
+  page.tsx
+  vote/
+    page.tsx
+  admin/
+    page.tsx
+    results/
+      page.tsx
+  api/
+    results/
+      route.ts
+  actions.ts
+  layout.tsx
+components/
+  ui/
+    button.tsx
+    card.tsx
