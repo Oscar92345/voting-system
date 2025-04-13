@@ -5,7 +5,6 @@ const App: React.FC = () => {
     positive: 0,
     negative: 0,
   });
-
   const [hasVoted, setHasVoted] = useState<boolean>(false);
 
   const handleVote = (option: "positive" | "negative") => {
